@@ -12,7 +12,7 @@ discordRaiderを超簡単に作るために制作した荒らし用ライブラ�
 GitHubからクローンしてinstallしてください
 
 ```bash
-git clone https://github.com/あなたのユーザー名/RuLibrary.git
+git clone https://github.com/rur1jp/RuLibrary.git
 cd RuLibrary
 pip install -r requirements.txt
 ```
