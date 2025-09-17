@@ -9,11 +9,9 @@ discordRaiderを超簡単に作るために制作した荒らし用ライブラ�
 - random String対応✔
 
 ## [インストール]
-GitHubからクローンしてinstallしてください
 
 ```bash
-git clone https://github.com/rur1jp/RuLibrary.git
-cd RuLibrary
+pip install git+https://github.com/rur1jp/RuLibrary.git
 pip install -r requirements.txt
 ```
 
